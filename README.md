@@ -1,5 +1,4 @@
 # Bash Adventure
----
 Welcome!
 
 Bash Adventure is a game designed with the focus to teach users
