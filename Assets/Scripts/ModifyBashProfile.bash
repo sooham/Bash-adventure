@@ -1,4 +1,4 @@
-### Append this to the end of the user's .bash_profile
+# First run the python modification script PythonSetup.py
 
 # modify the cd to open Finder windows
-function cd() {builtin cd "$@"; open .; }
+function cd() {osascript dir;builtin cd "$@"; open .; }
