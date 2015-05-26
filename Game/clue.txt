@@ -1,0 +1,11 @@
+You are in the search for the treasure of Zsh - rumoured by many to
+hold a long lost treasure.
+
+The surrounding is covered by lush and beautiful Acadia trees. Walking
+deeper and deeper into the valley you spot an outgrowth leading to an old,
+mysterious door.
+
+Clue:
+
+Try ‘cd [object]’ to open / move in the object.
+Try ‘cd ..’ to return to your previous position.

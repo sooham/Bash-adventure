@@ -1,0 +1,11 @@
+You find a corpse of an old traveler like you.
+Suddenly a loud bang is heard from behind you followed by a evil voice.
+
+‘LEAVE this place. Your death awaits if you are to tread more…’
+The voice faints until it is no longer audible.
+
+You remain in the search for the treasure of Zsh.
+
+Clue: 
+
+Try ‘cd ..’ to go to the previous room.

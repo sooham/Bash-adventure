@@ -1,0 +1,8 @@
+A large boulder blocks your way to the door. 
+Destroy it before you enter the next room.
+You remember an object you saw a while back.
+
+You remain in the search for the treasure of Zsh.
+
+Clue: Try ‘mv [object] [destination]’ to move the [object]
+from its current position to [destination].
