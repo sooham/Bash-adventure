@@ -11,5 +11,7 @@ Follow the instructions below to begin the game.
 3. You're all set to play!
 
 ![Example image](./img/game.png)
+
+
 Designed by Sooham Rafiz for CSC299 Research Programme.
 Homage to old CLI games.
