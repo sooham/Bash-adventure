@@ -21,7 +21,7 @@ def correct_bash_profile_paths():
         )
 
     new_command_bash = (
-        'bash ' + os.path.abspath('BossMultiply.bash') +
+        'bash ' + os.path.abspath('BossMultipier.bash') +
         '; fi'
         )
     contents = applescript_run_cmd.sub(new_command_aplscpt, contents)
