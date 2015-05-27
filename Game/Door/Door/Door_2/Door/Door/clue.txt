@@ -1,1 +1,12 @@
+The door opens up to a large underground cave.
+Many have been lost here for eternity.
+
+You notice three doors, a faint sound emenates
+from behind.
+
+A map is lying on the ground, perhaps you sould read it?
+
 You remain in the search for the treasure of Zsh.
+
+Clue:
+Try reading the map using 'more [object]'

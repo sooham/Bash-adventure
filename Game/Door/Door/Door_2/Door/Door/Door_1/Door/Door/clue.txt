@@ -1,1 +1,6 @@
+A mighty snake blocks your path.
+
 You remain in the search for the treasure of Zsh.
+
+Clue:
+Try removing [delete] an object using 'rm [object]'

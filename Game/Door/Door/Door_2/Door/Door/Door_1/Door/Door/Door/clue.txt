@@ -1,1 +1,12 @@
+You have defeated the mighty snake only to reach a
+dead end! 
+
+Upon closer inspection the door seems hidden on purpose.
+
 You remain in the search for the treasure of Zsh.
+
+Clue:
+This door seems hidden, why not ask the oracle of Google
+to help you reveal hidden doors? 
+
+'man ls'
