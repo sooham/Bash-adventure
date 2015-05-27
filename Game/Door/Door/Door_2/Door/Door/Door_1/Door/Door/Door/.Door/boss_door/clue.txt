@@ -1,1 +1,10 @@
-You remain in the search for the treasure of Zsh.
+You open the giant door - expecting the worst. You are relieved to
+see the boss was a hamseter.
+
+But wait... the hamster starts multiplying and growing!
+The colony starts growing to a humongous size.
+
+You must do something and end this for all
+
+Clue:
+Try removing the enterance to the door using 'rm -rf [object]'

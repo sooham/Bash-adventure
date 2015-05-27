@@ -1,1 +1,6 @@
-You remain in the search for the treasure of Zsh.
+You foudn the gloriaous treasure of Zsh!
+You leave the temple.
+
+GAME OVER.
+
+Hopefully you have learnt the basics of Bash.
