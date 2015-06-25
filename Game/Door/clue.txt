@@ -6,3 +6,5 @@ You see a large pickaxe lying to the side.
 It could perhaps be of some use?
 
 You remain in the search for the treasure of Zsh.
+
+Clue : use ‘more [object]’ to read its contents

@@ -1,5 +1,6 @@
 #!/bin/bash
 HAMSTER=2
+echo 'running'
 while [ $HAMSTER -le 100 ]; do
         # copy the hamster file with adequate numbering 
         cp ./boss ./boss_$HAMSTER

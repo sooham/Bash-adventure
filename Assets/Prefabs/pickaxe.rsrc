@@ -1,0 +1,642 @@
+data 'icns' (-16455) {
+	$"6963 6E73 0000 27ED 544F 4320 0000 0048"            /* icns..'םTOC ...H */
+	$"6973 3332 0000 017C 7338 6D6B 0000 0108"            /* is32...|s8mk.... */
+	$"6963 7362 0000 01EB 696C 3332 0000 051D"            /* icsb...כil32.... */
+	$"6C38 6D6B 0000 0408 6963 7364 0000 0692"            /* l8mk....icsd...’ */
+	$"6968 3332 0000 0A6F 6838 6D6B 0000 0908"            /* ih32..ֲoh8mk..ֶ. */
+	$"6973 3332 0000 017C B1FF 04FE FCFE C1C1"            /* is32...|±ÿ.‏ü‏ֱֱ */
+	$"80FF 01FB FE83 FF08 FEFE CA39 3E7C 9FD7"            /* €ÿ.û‏ƒÿ.‏‏Ê9>|׳ */
+	$"FE86 FF07 F791 4E4F 4AB0 FEFE 87FF 059F"            /* ‏†ÿ.ק‘NOJ°‏‏‡ÿ. */
+	$"3A4F 9DFF FE84 FF07 FEFF CC53 6C4A 5DE7"            /* :Oÿ‏„ÿ.‏ÿּSlJ]ח */
+	$"86FF 06DD 547B FA7A 33D5 85FF 08E6 6474"            /* †ÿ.ÝT{תz3ױ…ÿ.זdt */
+	$"F4FF CE8B F5FE 81FF 07FE FFF1 675E EAFF"            /* פÿ־‹ץ‏ÿ.‏ÿסg^ךÿ */
+	$"FE85 FF06 FEF6 6E49 DDFF FB87 FF05 833D"            /* ‏…ÿ.‏צnIÝÿû‡ÿ.ƒ= */
+	$"CFFF FEFC 87FF 03A5 BCFF FC8B FF02 FBFB"            /* ֿÿ‏ü‡ÿ.¥¼ÿü‹ÿ.ûû */
+	$"FE95 FFB1 FF09 FEFC FEC1 C1FF FFFE FAFC"            /* ‏•ÿ±ÿֶ‏ü‏ֱֱÿÿ‏תü */
+	$"83FF 08FE FECA 393E 7C9F D6FE 86FF 07F8"            /* ƒÿ.‏‏Ê9>|ײ‏†ÿ.ר */
+	$"9150 4D46 AFFE FE87 FF05 9C37 4A9C FFFE"            /* ‘PMF¯‏‏‡ÿ.7Jÿ‏ */
+	$"84FF 07FE FFCA 4A69 495D E786 FF06 DA4D"            /* „ÿ.‏ÿÊJiI]ח†ÿ.ÚM */
+	$"73FA 7A33 D585 FF08 E55B 6AF2 FFCF 8BF5"            /* sתz3ױ…ÿ.ו[jעÿֿ‹ץ */
+	$"FE81 FF05 FCFF F060 58E7 87FF 06FE F66A"            /* ‏ÿ.üÿנ`Xח‡ÿ.‏צj */
+	$"43DB FFFA 87FF 0580 38CD FFFC FC87 FF03"            /* CÛÿת‡ÿ.€8ֽÿüü‡ÿ. */
+	$"A3B8 FFFE 88FF 04FE FFFF FBFB 96FF A6FF"            /* £¸ÿ‏ˆÿ.‏ÿÿûû–ÿ¦ÿ */
+	$"82FE 83FF 09FE FCFE C1C1 FFFF FBF7 FB83"            /* ‚‏ƒÿֶ‏ü‏ֱֱÿÿûקûƒ */
+	$"FF09 FEFE CA39 3E7A 9DD4 FBFE 85FF 07F5"            /* ÿֶ‏‏Ê9>zװû‏…ÿ.ץ */
+	$"9150 4B44 ADFE FE87 FF05 9734 4A9A FFFE"            /* ‘PKD­‏‏‡ÿ.—4Jÿ‏ */
+	$"84FF 07FE FFC8 4367 475C E786 FF06 D448"            /* „ÿ.‏ÿָCgG\ח†ÿ.װH */
+	$"6EFA 7A33 D585 FF08 E252 64F1 FFCF 8CF5"            /* nתz3ױ…ÿ.גRdסÿֿץ */
+	$"FE83 FF03 ED59 52E4 87FF 06FE F566 3FD9"            /* ‏ƒÿ.םYRה‡ÿ.‏ץf?Ù */
+	$"FEFC 87FF 057B 35CA FFFC FE86 FF04 FE9F"            /* ‏ü‡ÿ.{5Êÿü‏†ÿ.‏ */
+	$"B6FF FC8B FF03 FBFA FCFC 94FF 7338 6D6B"            /* ¶ÿü‹ÿ.ûתüü”ÿs8mk */
+	$"0000 0108 FFFF FFFF FFFF FFFF FFFF FFFF"            /* ....ÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF 6963 7362 0000 01EB 4152 4742"            /* ÿÿÿÿicsb...כARGB */
+	$"FFFF FFFF BDFF B8FF 04FE FEFF FAFA 80FF"            /* ÿÿÿÿ½ÿ¸ÿ.‏‏ÿתת€ÿ */
+	$"02FC FCFE 84FF 09FC FED7 5855 C7EC EDFC"            /* .üü‏„ÿֶü‏׳XUַלםü */
+	$"FC85 FF09 FEFF B038 4142 6C72 F2FE 88FF"            /* ü…ÿֶ‏ÿ°8ABlrע‏ˆÿ */
+	$"06CA 6850 4D7B F4FC 89FF 06AD 374D 52E8"            /* .ÊhPM{פü‰ÿ.­7MRט */
+	$"FFFE 85FF 07FE FFC1 4D6F 5648 9286 FF08"            /* ÿ‏…ÿ.‏ÿֱMoVH’†ÿ. */
+	$"FEFF D14E 68F5 B72F 6687 FF08 DC61 64E4"            /* ‏ÿׁNhץ·/f‡ÿ.Üadה */
+	$"FEE7 67B0 FE83 FF0B FEFF ED61 55DA FFFC"            /* ‏חg°‏ƒÿ.‏ÿםaUÚÿü */
+	$"FFF1 FFFE 82FF 07FE FFF4 6746 CBFF FC88"            /* ÿסÿ‏‚ÿ.‏ÿפgFֻÿüˆ */
+	$"FF07 F476 35B6 FFFB FBFE 87FF 04B8 2CA6"            /* ÿ.פv5¶ÿûû‏‡ÿ.¸,¦ */
+	$"FFFE 8AFF 04EB C3FC FBFC 8CFF 03FC FBFC"            /* ÿ‏ÿ.כֳüûüÿ.üûü */
+	$"FE98 FFB8 FF04 FEFE FFFA FA80 FF02 FBFD"            /* ‏˜ÿ¸ÿ.‏‏ÿתת€ÿ.û‎ */
+	$"FE84 FF09 FCFE D758 56C7 ECEE FDFB 85FF"            /* ‏„ÿֶü‏׳XVַלמ‎û…ÿ */
+	$"09FE FFB0 3841 416B 71F2 FE88 FF06 CA6B"            /* ֶ‏ÿ°8AAkqע‏ˆÿ.Êk */
+	$"4F4A 79F4 FC89 FF06 A833 4A50 E8FF FE85"            /* OJyפü‰ÿ.¨3JPטÿ‏… */
+	$"FF07 FEFF BD43 6C56 4892 86FF 08FE FFCE"            /* ÿ.‏ÿ½ClVH’†ÿ.‏ÿ־ */
+	$"4960 F2B7 2F66 87FF 08D9 575B E2FE E767"            /* I`ע·/f‡ÿ.ÙW[ג‏חg */
+	$"B0FE 82FF 0CFE FEFF EB5A 4CD5 FFFE FFF3"            /* °‏‚ÿ.‏‏ÿכZLױÿ‏ÿף */
+	$"FFFE 82FF 07FE FEF2 6040 C9FF FB88 FF07"            /* ÿ‏‚ÿ.‏‏ע`@ֹÿûˆÿ. */
+	$"F473 31B4 FFFA FBFE 87FF 04B7 27A3 FFFE"            /* פs1´ÿתû‏‡ÿ.·'£ÿ‏ */
+	$"8AFF 04EA BFFB FBFC 8CFF 02FC FBFB 99FF"            /* ÿ.ך¿ûûüÿ.üûû™ÿ */
+	$"B8FF 0AFE FEFF FAFA FFFC FCF9 FAFE 84FF"            /* ¸ÿֲ‏‏ÿתתÿüüשת‏„ÿ */
+	$"0AFC FED9 5856 C4EA EBFA F9FE 84FF 09FE"            /* ֲü‏ÙXVִךכתש‏„ÿֶ‏ */
+	$"FFB0 3841 4068 70F1 FC88 FF06 CA6A 4B46"            /* ÿ°8A@hpסüˆÿ.ÊjKF */
+	$"78F2 FC89 FF04 A32F 484F E887 FF07 FEFF"            /* xעü‰ÿ.£/HOט‡ÿ.‏ÿ */
+	$"BA3C 6854 4792 86FF 08FE FFC9 435A F1B8"            /* ÷<hTG’†ÿ.‏ÿֹCZס¸ */
+	$"2F66 87FF 09D6 4F54 E0FF E767 B2FE FE84"            /* /f‡ÿֶײOTאÿחg²‏‏„ */
+	$"FF03 E653 46D1 80FF 02F1 FFFC 82FF 07FE"            /* ÿ.זSFׁ€ÿ.סÿü‚ÿ.‏ */
+	$"FFF1 593A C4FF FC87 FF08 FEF2 6F2E B0FF"            /* ÿסY:ִÿü‡ÿ.‏עo.°ÿ */
+	$"FAFC FE87 FF04 B325 A0FF FE8A FF06 E8BD"            /* תü‏‡ÿ.³% ÿ‏ÿ.ט½ */
+	$"FAFB FCFE FE8A FF04 FCFB FAFC FC97 FF69"            /* תûü‏‏ÿ.üûתüü—ÿi */
+	$"6C33 3200 0005 1D9D 00FF FFA4 FF04 FEFB"            /* l32.....ÿÿ₪ÿ.‏û */
+	$"FEFB FE81 FF82 FE04 FBFB FEFA FE8A FF12"            /* ‏û‏ÿ‚‏.ûû‏ת‏ÿ. */
+	$"FEFB FCFA FFCB B4B4 CDFF FFFC FFFE FCFA"            /* ‏ûüתÿֻ´´ֽÿÿüÿ‏üת */
+	$"FBFA FE8A FF11 FEFA FEFB E458 1F1C 52DC"            /* ûת‏ÿ.‏ת‏ûהX..RÜ */
+	$"E0FE E0F2 FCFA FEFC 8BFF 0FFC FEFC FE47"            /* א‏אעüת‏ü‹ÿ.ü‏ü‏G */
+	$"3F56 4D4B 2437 ED34 C4FE F980 FE8B FF10"            /* ?VMK$7ם4ִ‏ש€‏‹ÿ. */
+	$"FCFE FEE8 4F1E 3652 4E61 3C5A 33B3 FFFC"            /* ü‏‏טO.6RNa<Z3³ÿü */
+	$"FE90 FF0C CBBB 7328 4F6C 6335 A0EB FAFB"            /* ‏ÿ.ֻ»s(Olc5 כתû */
+	$"F992 FF07 DA75 3A54 4A5B 73CF 80FC 00FE"            /* ש’ÿ.Úu:TJ[sֿ€ü.‏ */
+	$"8FFF 0DFC FFE2 832E 3D52 6827 ACFF FEFC"            /* ÿ.üÿגƒ.=Rh'¬ÿ‏ü */
+	$"FE90 FF0C E286 3146 4640 4D33 93EA FAFC"            /* ‏ÿ.ג†1FF@M3“ךתü */
+	$"FE8A FF11 FEFC FEFF FEF5 6C43 6550 F033"            /* ‏ÿ.‏ü‏ÿ‏ץlCePנ3 */
+	$"476C 3092 FFFE 8CFF 11FC FBFC FF62 4C47"            /* Gl0’ÿ‏ÿ.üûüÿbLG */
+	$"5DF4 FBEA 3743 2393 FFFC FE8A FF11 FEF9"            /* ]פûך7C#“ÿü‏ÿ.‏ש */
+	$"FBFF 6360 4062 DDFC FBF6 2E4A 2D8B FFFC"            /* ûÿc`@bÝüûצ.J-‹ÿü */
+	$"8BFF 12F9 FCFF 726A 4874 CCFF FCF9 FAB0"            /* ‹ÿ.שüÿrjHtּÿüשת° */
+	$"456F D9FC FCFE 8BFF 07F7 9646 5B6A C8FF"            /* EoÙüü‏‹ÿ.ק–F[jָÿ */
+	$"FC80 FB05 FF88 D3FF FCF9 87FF 0AFC FFFE"            /* ü€û.ÿˆ׃ÿüש‡ÿֲüÿ‏ */
+	$"FFF4 AC36 544C CEFF 80FE 8EFF 0DFC FBFE"            /* ÿפ¬6TL־ÿ€‏ÿ.üû‏ */
+	$"FCF6 B72A 623B DAFF FAFC FB8F FF0D FEFC"            /* üצ·*b;Úÿתüûÿ.‏ü */
+	$"FEFE AE2A 4932 E2FE FBFB FEFB 90FF 0DFB"            /* ‏‏®*I2ג‏ûû‏ûÿ.û */
+	$"FFA9 373F 32D9 FAFF FCFA FBF9 FE90 FF04"            /* ÿ©7?2Ùתÿüתûש‏ÿ. */
+	$"9548 3640 C180 FF04 FCFC FFFB FE8E FF09"            /* •H6@ֱ€ÿ.üüÿû‏ÿֶ */
+	$"FEFF 671B 4EAB FFFE FFFE 93FF 09FE FE9B"            /* ‏ÿg.N«ÿ‏ÿ‏“ÿֶ‏‏› */
+	$"5A93 FFFA FBFC FE93 FF01 FEFC 80FF 05FB"            /* Z“ÿתûü‏“ÿ.‏ü€ÿ.û */
+	$"FAFB FCFC FE94 FF09 FEFC FAFB F9FB FBFA"            /* תûüü‏”ÿֶ‏üתûשûûת */
+	$"FEFE 91FF 80FE 05FF FEFC FEFF FF80 FEAD"            /* ‏‏‘ÿ€‏.ÿ‏ü‏ÿÿ€‏­ */
+	$"FF9D 009D 00FF FFA4 FF04 FEFB FEFB FE81"            /* ÿ..ÿÿ₪ÿ.‏û‏û‏ */
+	$"FF09 FCFD FCFD FEFB FAFE FAFE 8AFF 0EFE"            /* ÿֶü‎ü‎‏ûת‏ת‏ÿ.‏ */
+	$"FBFC FAFF CBB4 B4CD FFFE FBFF FEFB 80FA"            /* ûüתÿֻ´´ֽÿ‏ûÿ‏û€ת */
+	$"00FE 8AFF 11FE FAFE FBE4 581F 1C52 DCE0"            /* .‏ÿ.‏ת‏ûהX..RÜא */
+	$"FDDF F1FB FAFD FD8B FF12 FCFE FCFE 473F"            /* ‎ßסûת‎‎‹ÿ.ü‏ü‏G? */
+	$"564D 4B24 36EE 33C3 FEF9 FDFD FE8B FF10"            /* VMK$6מ3ֳ‏ש‎‎‏‹ÿ. */
+	$"FCFE FEE8 4F1F 3754 4D60 3A58 32B2 FFFC"            /* ü‏‏טO.7TM`:X2²ÿü */
+	$"FE90 FF0C CBBB 752B 4D68 5F32 9EEC FAFB"            /* ‏ÿ.ֻ»u+Mh_2לתû */
+	$"F98F FF0A FEFF FFDA 7639 5046 5770 CF80"            /* שÿֲ‏ÿÿÚv9PFWpֿ€ */
+	$"FC00 FE8F FF0D FEFF E17F 2A39 4E64 25AC"            /* ü.‏ÿ.‏ÿב.*9Nd%¬ */
+	$"FFFE FCFE 90FF 0CE1 7D28 4145 3E4B 3393"            /* ÿ‏ü‏ÿ.ב}(AE>K3“ */
+	$"EAFA FCFE 8AFF 11FE FCFE FFFE F566 3A58"            /* ךתü‏ÿ.‏ü‏ÿ‏ץf:X */
+	$"4CF0 3347 6C30 92FF FE8C FF11 FEFB FDFF"            /* Lנ3Gl0’ÿ‏ÿ.‏û‎ÿ */
+	$"5E46 4054 F2FC EA37 4323 93FF FCFE 8AFF"            /* ^F@Tעüך7C#“ÿü‏ÿ */
+	$"11FE F7F7 FF5D 583A 5DDB FBFB F62E 4A2D"            /* .‏קקÿ]X:]Ûûûצ.J- */
+	$"8BFF FC8B FF12 FAFB FF6C 603E 6DCB FFFB"            /* ‹ÿü‹ÿ.תûÿl`>mֻÿû */
+	$"F9FA B245 6FD9 FCFC FE8B FF06 F892 3C4E"            /* שת²EoÙüü‏‹ÿ.ר’<N */
+	$"5FC2 FF80 FC06 FEFF 89D2 FFFC F986 FF0E"            /* _ֲÿ€ü.‏ÿ‰ׂÿüש†ÿ. */
+	$"FEFB FEFE FFEF A52E 4C48 CCFF FCFE FE8E"            /* ‏û‏‏ÿן¥.LHּÿü‏‏ */
+	$"FF0D FCF9 FBFC F6B1 225A 37D7 FFF9 FAFB"            /* ÿ.üשûüצ±"Z7׳ÿשתû */
+	$"8FFF 0DFE FBFC FEAD 2541 2DDF FBFA F9FB"            /* ÿ.‏ûü‏­%A-ßûתשû */
+	$"FB90 FF0D FDFF A633 392F D6F8 FEFB F9FA"            /* ûÿ.‎ÿ¦39/ײר‏ûשת */
+	$"FAFE 90FF 0C93 452F 3CC0 FEFE FCFB FBFE"            /* ת‏ÿ.“E/<ְ‏‏üûû‏ */
+	$"FBFE 90FF 0764 1848 A9FF FDFE FE93 FF09"            /* û‏ÿ.d.H©ÿ‎‏‏“ÿֶ */
+	$"FEFF 9956 8FFF F9FB FCFE 93FF 01FE FB80"            /* ‏ÿ™Vÿשûü‏“ÿ.‏û€ */
+	$"FF04 FAFA FBFC FC94 FF05 FBFC FBFA FDF9"            /* ÿ.תתûüü”ÿ.ûüûת‎ש */
+	$"80FA 93FF 80FE 06FF FEFC FEFF FEFC AFFF"            /* €ת“ÿ€‏.ÿ‏ü‏ÿ‏ü¯ÿ */
+	$"9D00 9D00 FFFF A4FF 04FE FBFE FBFE 81FF"            /* ..ÿÿ₪ÿ.‏û‏û‏ÿ */
+	$"09FB FAFB FAFB F9F7 FBF7 FE8A FF0E FEFB"            /* ֶûתûתûשקûק‏ÿ.‏û */
+	$"FCFA FFCB B4B4 CDFF FBF9 FCFB F980 F700"            /* üתÿֻ´´ֽÿûשüûש€ק. */
+	$"FC8A FF11 FEFA FEFB E458 1F1C 52DC DCFA"            /* üÿ.‏ת‏ûהX..RÜÜת */
+	$"DCEF F9F7 FAFA 8BFF 12FC FEFC FF47 3F56"            /* Üןשקתת‹ÿ.ü‏üÿG?V */
+	$"4D4B 2234 EB32 C1FC F6FA FAFE 8BFF 11FC"            /* MK"4כ2ֱüצתת‏‹ÿ.ü */
+	$"FEFC E84F 1E37 544B 5D39 5630 AFFF FBFC"            /* ‏üטO.7TK]9V0¯ÿûü */
+	$"FE8C FF0F FEFC FFCB BB74 2B4A 635C 309D"            /* ‏ÿ.‏üÿֻ»t+Jc\0 */
+	$"EBFA FBFA 8FFF 0DFC FFFF DA74 354C 4356"            /* כתûתÿ.üÿÿÚt5LCV */
+	$"6FCF FCFC FE90 FF0D FBFF DF78 2736 4C63"            /* oֿüü‏ÿ.ûÿßx'6Lc */
+	$"24AB FFFE FCFE 8EFF 0EFE FBE1 7722 3F43"            /* $«ÿ‏ü‏ÿ.‏ûבw"?C */
+	$"3C4B 3193 EAFA FEFE 8AFF 00FE 80FC 0DFB"            /* <K1“ךת‏‏ÿ.‏€ü.û */
+	$"F562 3350 4AEF 3244 6A30 92FF FE8C FF11"            /* ץb3PJן2Dj0’ÿ‏ÿ. */
+	$"FEFA F7FF 5941 394D F2FC EA36 4223 93FF"            /* ‏תקÿYA9Mעüך6B#“ÿ */
+	$"FCFE 8AFF 12FE F7F5 FF57 5235 57DA FCFC"            /* ü‏ÿ.‏קץÿWR5WÚüü */
+	$"F62E 4A2E 8BFF FBFE 8AFF 12FB FAFB 6557"            /* צ.J.‹ÿû‏ÿ.ûתûeW */
+	$"3767 CAFF FCFB FBB2 4671 D9FC FBFE 8BFF"            /* 7gÊÿüûû²FqÙüû‏‹ÿ */
+	$"07F5 8C34 4557 BEFF FF80 FE05 FF89 D4FF"            /* .ץ4EW¾ÿÿ€‏.ÿ‰װÿ */
+	$"FBF6 8BFF 08E7 9C2A 4843 C4FF FBFE 84FF"            /* ûצ‹ÿ.ח*HCִÿû‏„ÿ */
+	$"00FE 87FF 0DFE FBFC FEF5 A71C 5433 D4FB"            /* .‏‡ÿ.‏ûü‏ץ§.T3װû */
+	$"F5FB FC8F FF0D FEFC FCFE AB20 3C2A DAF7"            /* ץûüÿ.‏üü‏« <*Úק */
+	$"F6F7 FEFE 8FFF 0EFE F9FF A430 352A D1F4"            /* צק‏‏ÿ.‏שÿ₪05*ׁפ */
+	$"FBFA F9FB FBFE 8EFF 07FE FE90 412D 39BD"            /* ûתשûû‏ÿ.‏‏A-9½ */
+	$"FA81 FC02 FFFC FE8E FF09 FCFF 6015 45A8"            /* תü.ÿü‏ÿֶüÿ`.E¨ */
+	$"FFFA FEFE 93FF 09FE FE96 538A FFF9 FAFC"            /* ÿת‏‏“ÿֶ‏‏–Sÿשתü */
+	$"FE93 FF07 FEFC FFFF FEFA FAFB 83FC 00FE"            /* ‏“ÿ.‏üÿÿ‏תתûƒü.‏ */
+	$"90FF 03FE FEF9 FB81 F981 FC00 FE92 FF05"            /* ÿ.‏‏שûשü.‏’ÿ. */
+	$"FEFC FEFC FCFB 82FE AAFF 9D00 6C38 6D6B"            /* ‏ü‏üüû‚‏×ÿ.l8mk */
+	$"0000 0408 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 FFFF FFFF FFFF FFFF FFFF FFFF"            /* ....ÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF 0000 0000 0000 0000 0000 0000"            /* ÿÿÿÿ............ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 6963 7364 0000 0692 4152 4742"            /* ....icsd...’ARGB */
+	$"A100 FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ¡.ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF B3FF A100 A100 FFFF BAFF 80FE"            /* ÿÿÿÿ³ÿ¡.¡.ÿÿ÷ÿ€‏ */
+	$"00FF 82FE 97FF 05FE FBFF FCFB FE82 FF09"            /* .ÿ‚‏—ÿ.‏ûÿüû‏‚ÿֶ */
+	$"FBFE FEFC FFFA FAFE F9FC 8CFF 0CFE FCFB"            /* û‏‏üÿתת‏שüÿ.‏üû */
+	$"FAFC FFA7 9E9D A8FB FCFC 80FE 04FC FAFB"            /* תüÿ§¨ûüü€‏.üתû */
+	$"FCFB 8CFF 14FE FBFC FCF6 E137 1E1C 2FE0"            /* üûÿ.‏ûüüצב7../א */
+	$"E1F5 F9E4 F6FB FBFE FCFE 8CFF 14FE FBFE"            /* בץשהצûû‏ü‏ÿ.‏û‏ */
+	$"FFC9 1F52 5A48 5326 1BA5 CF25 FBFE F9FB"            /* ÿֹ.RZHS&.¥ֿ%û‏שû */
+	$"FFFE 8DFF 11FE FCFF F1BB 2E28 394C 5746"            /* ÿ‏ÿ.‏üÿס».(9LWF */
+	$"614B 5544 C9FE FE94 FF0E 7564 553C 4C59"            /* aKUDֹ‏‏”ÿ.udU<LY */
+	$"6747 505C D0FE FBF9 FC91 FF0C FCFF FFB3"            /* gGP\׀‏ûשü‘ÿ.üÿÿ³ */
+	$"2746 6452 4D33 EBFC F980 FC91 FF80 FE0C"            /* 'FdRM3כüש€ü‘ÿ€‏. */
+	$"FFE6 2849 5452 862C BCFF FCFE FC92 FF0E"            /* ÿז(ITR†,¼ÿü‏ü’ÿ. */
+	$"FCFF C950 412D 3A5A 541F C1FF FEFC FA91"            /* üÿֹPA-:ZT.ֱÿ‏üת‘ */
+	$"FF0E FEFF C883 3A42 5B4E 3455 3989 CEF9"            /* ÿ.‏ÿָƒ:B[N4U9‰־ש */
+	$"FE8E FF12 FCFC FFFE FEF4 5B39 7C2D E980"            /* ‏ÿ.üüÿ‏‏פ[9|-י€ */
+	$"2A4F 7229 6AFF FE8E FF13 FEFC FCFF FF3C"            /* *Or)jÿ‏ÿ.‏üüÿÿ< */
+	$"554F 37F0 FBF7 B324 4B1F 72FF FCFC 8DFF"            /* UO7נûק³$K.rÿüüÿ */
+	$"12F9 FBFF E65E 6140 57B8 FBFA FFBA 174F"            /* .שûÿז^a@W¸ûתÿ÷.O */
+	$"2D69 FFFB 8DFF 13FB F9FB E09C 3B62 5990"            /* -iÿûÿ.ûשûא;bY */
+	$"FFFE F9FC CE58 5548 97FC FC8D FF14 FBFB"            /* ÿ‏שü־XUH—üüÿ.ûû */
+	$"FA91 2E98 2EB4 FFFB FBFA FAFF FA2A C3FF"            /* ת‘.˜.´ÿûûתתÿת*ֳÿ */
+	$"FBF9 FC87 FF00 FE81 FF13 FEFF 6043 5F29"            /* ûשü‡ÿ.‏ÿ.‏ÿ`C_) */
+	$"D2F9 FEFE FBFC FEFC FCEC FAFE FEFC 88FF"            /* ׂש‏‏ûü‏üüלת‏‏üˆÿ */
+	$"0FFC FCFF FCFF FE6F 5A44 4AA8 F4FC FEFC"            /* .üüÿüÿ‏oZDJ¨פü‏ü */
+	$"FE91 FF0F FBFC FCFE EBB6 324C 596F FFFB"            /* ‏‘ÿ.ûüü‏כ¶2LYoÿû */
+	$"FAFC FBFE 91FF 0FFB FEFF FEB7 1E4C 2978"            /* תüû‏‘ÿ.û‏ÿ‏·.L)x */
+	$"FFFC FBFA FEFC FE91 FF0F FEFB FF86 3248"            /* ÿüûת‏ü‏‘ÿ.‏ûÿ†2H */
+	$"1DA6 F0FC FEFC FBFB FAFB 91FF 0FFE FE87"            /* .¦נü‏üûûתû‘ÿ.‏‏‡ */
+	$"4D38 3596 E6FF FEFE FBFC FFFA FE91 FF07"            /* M85–זÿ‏‏ûüÿת‏‘ÿ. */
+	$"FBFE 3E2F 4B54 FFFF 80FE 96FF 0AFC FE46"            /* û‏>/KTÿÿ€‏–ÿֲü‏F */
+	$"1F57 FFF9 F9FC FCFE 96FF 04FB FFDF DCE3"            /* .Wÿששüü‏–ÿ.ûÿßÜד */
+	$"80FA 02FE FBFE 97FF 03FC FFFF FC80 FB03"            /* €ת.‏û‏—ÿ.üÿÿü€û. */
+	$"FAFB FCFE 97FF 0AFC FCFA FCFA FAFC F7FC"            /* תûü‏—ÿֲüüתüתתüקü */
+	$"FEFE 96FF 03FE FFFF FE81 FF00 FEB5 FFA1"            /* ‏‏–ÿ.‏ÿÿ‏ÿ.‏µÿ¡ */
+	$"00A1 00FF FFBA FF80 FE00 FF82 FE05 FFFE"            /* .¡.ÿÿ÷ÿ€‏.ÿ‚‏.ÿ‏ */
+	$"FEFF FEFE 81FF 00FE 8CFF 05FE FBFF FCFB"            /* ‏ÿ‏‏ÿ.‏ÿ.‏ûÿüû */
+	$"FE82 FF09 FBFD FBFD FEF9 F9FD F9FB 8CFF"            /* ‏‚ÿֶû‎û‎‏שש‎שûÿ */
+	$"14FE FCFB FAFC FFA7 9E9D A8FB FDFB FEFD"            /* .‏üûתüÿ§¨û‎û‏‎ */
+	$"FEFD FAFA FDFB 8CFF 14FE FBFC FCF6 E137"            /* ‏‎תת‎ûÿ.‏ûüüצב7 */
+	$"1E1C 2FE0 E0F4 F6E2 F5FB F9FD FBFE 8CFF"            /* ../אאפצגץûש‎û‏ÿ */
+	$"14FE FBFE FFC9 1F52 5A48 5326 1AA4 CF24"            /* .‏û‏ÿֹ.RZHS&.₪ֿ$ */
+	$"FAFD F8FB FCFE 8DFF 12FE FCFF F1BB 2E28"            /* ת‎רûü‏ÿ.‏üÿס».( */
+	$"394D 5745 604B 5442 C8FE FCFE 93FF 0E75"            /* 9MWE`KTBָ‏ü‏“ÿ.u */
+	$"6558 404E 5663 434C 5BD0 FEFB F9FC 91FF"            /* eX@NVcCL[׀‏ûשü‘ÿ */
+	$"0CFC FFFF B428 4661 4F4A 30EA FDF9 80FC"            /* .üÿÿ´(FaOJ0ך‎ש€ü */
+	$"90FF 80FE 0DFD FFE5 2645 504E 812A BCFF"            /* ÿ€‏.‎ÿו&EPN*¼ÿ */
+	$"FCFE FC92 FF0E FDFF C64A 3B2A 3756 501D"            /* ü‏ü’ÿ.‎ÿֶJ;*7VP. */
+	$"C1FF FEFC FA92 FF0D FEC7 7A30 3A5B 4D33"            /* ֱÿ‏üת’ÿ.‏ַz0:[M3 */
+	$"5438 89CE F9FE 8EFF 12FC FCFF FEFD F455"            /* T8‰־ש‏ÿ.üüÿ‏‎פU */
+	$"326F 26EA 7E2A 4F71 296A FFFE 8EFF 13FE"            /* 2o&ך~*Oq)jÿ‏ÿ.‏ */
+	$"FCFB FFFF 394E 462F EBFB F7B3 244B 1F72"            /* üûÿÿ9NF/כûק³$K.r */
+	$"FFFC FC8D FF12 F9FA FEE2 585A 3951 B4F7"            /* ÿüüÿ.שת‏גXZ9Q´ק */
+	$"FAFF BA17 4F2D 69FF FB8D FF13 FCF9 FADE"            /* תÿ÷.O-iÿûÿ.üשתÞ */
+	$"9432 5952 8BFF FCF9 FCCE 5855 4897 FCFC"            /* ”2YR‹ÿüשü־XUH—üü */
+	$"8DFF 14FC FBFA 8C25 8924 ACFF FCFC FAFA"            /* ÿ.üûת%‰$¬ÿüüתת */
+	$"FFFB 2CC3 FFFB F9FD 87FF 00FE 81FF 08FC"            /* ÿû,ֳÿûש‎‡ÿ.‏ÿ.ü */
+	$"FF5C 3D55 20CA F6FB 80FE 07FF FEFE EEFA"            /* ÿ\=U Êצû€‏.ÿ‏‏מת */
+	$"FEFE FD88 FF0F FBFB FFFC FFF9 6851 3D46"            /* ‏‏‎ˆÿ.ûûÿüÿשhQ=F */
+	$"A6F1 FDFC FCFE 91FF 0FF9 FAFB FCEB B02A"            /* ¦ס‎üü‏‘ÿ.שתûüכ°* */
+	$"4553 6BFF F9F9 FAFB FE91 FF0F FBFE FCFC"            /* ESkÿששתû‏‘ÿ.û‏üü */
+	$"B61A 4525 75FF F9FA F9FC FBFE 91FF 0FFE"            /* ¶.E%uÿשתשüû‏‘ÿ.‏ */
+	$"FBFF 842E 4219 A3ED FAFE FBF9 FAFA FB92"            /* ûÿ„.B.£םת‏ûשתתû’ */
+	$"FF0E FE86 4A31 3092 E2FF FEFC FAFA FEFA"            /* ÿ.‏†J10’גÿ‏üתת‏ת */
+	$"FE91 FF07 FDFF 3A2C 4352 FFFF 80FE 96FF"            /* ‏‘ÿ.‎ÿ:,CRÿÿ€‏–ÿ */
+	$"09FD FE44 1C52 FFF7 F9FC FC82 FF00 FE91"            /* ֶ‎‏D.Rÿקשüü‚ÿ.‏‘ */
+	$"FF09 FBFE DDDA DFF7 FAFA FEFB 82FF 00FE"            /* ÿֶû‏ÝÚßקתת‏û‚ÿ.‏ */
+	$"91FF 03FE FAFF FF81 FB02 FAFB FC96 FF80"            /* ‘ÿ.‏תÿÿû.תûü–ÿ€ */
+	$"FC07 FBFA FCFA F9FC F6FE 96FF 05FE FFFE"            /* ü.ûתüתשüצ‏–ÿ.‏ÿ‏ */
+	$"FFFF FE80 FF01 FEFE B5FF A100 A100 FFFF"            /* ÿÿ‏€ÿ.‏‏µÿ¡.¡.ÿÿ */
+	$"BAFF 80FE 00FF 83FE 04FC FCFE FCFC 81FE"            /* ÷ÿ€‏.ÿƒ‏.üü‏üü‏ */
+	$"00FC 8CFF 05FE FBFF FCFB FE81 FF0A FEF9"            /* .üÿ.‏ûÿüû‏ÿֲ‏ש */
+	$"FAF9 F9FB F6F6 FAF6 F98C FF14 FEFC FBFA"            /* תששûצצתצשÿ.‏üûת */
+	$"FCFF A79E 9DA8 FAFA F9FB FAFB FAF7 F7FA"            /* üÿ§¨תתשûתûתקקת */
+	$"F98C FF14 FEFB FCFC F6E1 371E 1C2F DFDD"            /* שÿ.‏ûüüצב7../ßÝ */
+	$"F1F4 E0F2 F9F6 FAF9 FC8C FF14 FEFB FEFF"            /* ספאעשצתשüÿ.‏û‏ÿ */
+	$"C91F 525A 4853 2519 A1CD 22F7 FAF5 F9FA"            /* ֹ.RZHS%.¡ֽ"קתץשת */
+	$"FB8D FF13 FEFC FFF1 BB2E 2839 4D55 425D"            /* ûÿ.‏üÿס».(9MUB] */
+	$"4952 41C5 FCFB FBFC 8FFF 11FC FEFF 7565"            /* IRAֵüûûüÿ.ü‏ÿue */
+	$"5741 4B51 5F41 4B5A CEFC FCFA FE8F FF11"            /* WAKQ_AKZ־üüת‏ÿ. */
+	$"FEFE FBFF FFB3 2843 5C4B 482F E7FA F7FC"            /* ‏‏ûÿÿ³(C\KH/חתקü */
+	$"FCFE 91FF 0FFE FCFA FEE0 2241 4D4C 8129"            /* ü‏‘ÿ.‏üת‏א"AML) */
+	$"BBFF FCFF FE92 FF0E F9FF BE42 3627 3455"            /* »ÿüÿ‏’ÿ.שÿ¾B6'4U */
+	$"4F1C BFFF FEFC FC91 FF0E FCFB C574 2A35"            /* O.¿ÿ‏üü‘ÿ.üûֵt*5 */
+	$"594B 3252 3789 CEF9 FE8E FF81 FC0E F9F4"            /* YK2R7‰־ש‏ÿü.שפ */
+	$"502B 6622 EA7E 2A4D 7029 6AFF FE8E FF13"            /* P+f"ך~*Mp)jÿ‏ÿ. */
+	$"FEFB F7FA FF34 4941 28E6 FCF7 B222 4B1F"            /* ‏ûקתÿ4IA(זüק²"K. */
+	$"72FF FCFC 8DFF 13FA F7FA DC52 5434 4BB3"            /* rÿüüÿ.תקתÜRT4K³ */
+	$"F7FC FFBA 174F 2E69 FFFB FC8C FF11 FCF7"            /* קüÿ÷.O.iÿûüÿ.üק */
+	$"F7D6 8D2C 524C 89FF FCFB FCCE 5855 4997"            /* קײ,RL‰ÿüûü־XUI— */
+	$"80FC 8CFF 14FE FBFA 831D 801F A6FF FCFE"            /* €üÿ.‏ûתƒ.€.¦ÿü‏ */
+	$"FCFC FFFB 2BC5 FFFB F6FA 8CFF 08FB FF58"            /* üüÿû+ֵÿûצתÿ.ûÿX */
+	$"374D 1BC3 F4FB 81FF 07FE FEEC FAFE FCFA"            /* 7M.ֳפûÿ.‏‏לת‏üת */
+	$"FC87 FF0F FEFE FFFE FFF1 604A 3941 A1EC"            /* ü‡ÿ.‏‏ÿ‏ÿס`J9A¡ל */
+	$"FAFB FCFE 91FF 0EFB FCFC FEE8 A823 3F4D"            /* תûü‏‘ÿ.ûüü‏ט¨#?M */
+	$"68FF F5F5 FBFE 92FF 0EFC FCFB FCB3 1640"            /* hÿץץû‏’ÿ.üüûü³.@ */
+	$"2271 FFF6 F7F6 FFFE 92FF 0FFB F9FF 812B"            /* "qÿצקצÿ‏’ÿ.ûשÿ+ */
+	$"3F15 9FEB F7FC FAFA FBFB FC91 FF0F FAFB"            /* ?.כקüתתûûü‘ÿ.תû */
+	$"8445 2E2E 90DF FEFB FCFB FBFF FBFE 91FF"            /* „E..ß‏ûüûûÿû‏‘ÿ */
+	$"0AF7 FB37 2841 4FFB FFFB FEFE 96FF 09FA"            /* ֲקû7(AOûÿû‏‏–ÿֶת */
+	$"FA41 1A4E FFF6 F7FC FE97 FF09 FAFC DBD7"            /* תA.Nÿצקü‏—ÿֶתüÛ׳ */
+	$"DCF6 FBFA FEFB 98FF 09FC FFFF FAFA FBFB"            /* Üצûת‏û˜ÿֶüÿÿתתûû */
+	$"FAFB FB81 FC00 FE93 FF08 FEFE FAFC FAF9"            /* תûûü.‏“ÿ.‏‏תüתש */
+	$"FBF5 FB81 FC00 FE96 FF05 FEFF FFFE FCFC"            /* ûץûü.‏–ÿ.‏ÿÿ‏üü */
+	$"81FE B1FF A100 6968 3332 0000 0A6F DD00"            /* ‏±ÿ¡.ih32..ֲoÝ. */
+	$"FFFF FFFF D8FF 19FB FCFE FBFF FCFC FBFB"            /* ÿÿÿÿ״ÿ.ûü‏ûÿüüûû */
+	$"FEFA FFFE FEFC FFFE FCFF FCFF FFFE FFFE"            /* ‏תÿ‏‏üÿ‏üÿüÿÿ‏ÿ‏ */
+	$"FC92 FF06 FBFC FFFE FBFB FE80 FF10 FCFF"            /* ü’ÿ.ûüÿ‏ûû‏€ÿ.üÿ */
+	$"FFFE FBFC FEFB FCFF FFF7 F7F9 FEF5 FA91"            /* ÿ‏ûü‏ûüÿÿקקש‏ץת‘ */
+	$"FF1C FEFC FBFE FAFA FCFE D4BE C2BE BFD4"            /* ÿ.‏üû‏תתü‏װ¾ֲ¾¿װ */
+	$"FBFB F9FB FFFC FCFF FEFB FBFA FEF9 FE91"            /* ûûשûÿüüÿ‏ûûת‏ש‏‘ */
+	$"FF0C FEF5 FAFF FBFE FF60 1318 1C13 5F84"            /* ÿ.‏ץתÿû‏ÿ`...._„ */
+	$"FF06 F9FC F6FC FFFC FE92 FF19 FBFC FFFF"            /* ÿ.שüצüÿü‏’ÿ.ûüÿÿ */
+	$"FCD1 5F6D 3F4A 2F36 5962 696E FFD4 5AC8"            /* üׁ_m?J/6YbinÿװZָ */
+	$"FBF9 FCF7 FCFC 92FF 18FE FEFC FFFA FFBB"            /* ûשüקüü’ÿ.‏‏üÿתÿ» */
+	$"0A3F 406A 5C47 5419 1A22 FFC3 06AF FFFC"            /* ֲ?@j\GT.."ÿֳ.¯ÿü */
+	$"F6FC 80FE 93FF 17FB FCFE FEF1 CB59 2230"            /* צü€‏“ÿ.ûü‏‏סֻY"0 */
+	$"3648 4B62 3D72 4949 594B 43E7 FCFE FE9B"            /* 6HKb=rIIYKCחü‏‏› */
+	$"FF12 6E26 2B32 4953 5039 882B 3569 3B24"            /* ÿ.n&+2ISP9ˆ+5i;$ */
+	$"E1FF FEFB FB9A FF13 F0F5 F6CD 1C28 4668"            /* בÿ‏ûûÿ.נץצֽ.(Fh */
+	$"6D84 7119 B0FF FEFB F6FC F5F9 98FF 80FC"            /* m„q.°ÿ‏ûצüץש˜ÿ€ü */
+	$"11FF E545 4943 6642 4039 3894 C3F6 F7FC"            /* .ÿוEICfB@98”ֳצקü */
+	$"FFFF FE99 FF14 FEFC FEFF FFB7 1843 585A"            /* ÿÿ‏™ÿ.‏ü‏ÿÿ·.CXZ */
+	$"5294 4A16 DFFF F9FE FEFB FE98 FF0E FEFA"            /* R”J.ßÿש‏‏û‏˜ÿ.‏ת */
+	$"FFEA 6B5D 3937 3548 605B 3622 E080 FF02"            /* ÿךk]975H`[6"א€ÿ. */
+	$"FEFA FE97 FF14 FEFE FCFF E819 3155 281B"            /* ‏ת‏—ÿ.‏‏üÿט.1U(. */
+	$"4F3F 5434 1BEF FFF7 F7FE FC9B FF10 5F50"            /* O?T4.ןÿקק‏ü›ÿ._P */
+	$"6E59 259F C72E 2F51 5D5A 4C64 FCFB FB93"            /* nY%ַ./Q]ZLdüûû“ */
+	$"FF19 FEFC FBFE FFFE FCFA F73C 3284 621E"            /* ÿ.‏üû‏ÿ‏üתק<2„b. */
+	$"C9FE 2C31 4C62 7029 3CFF FEFE 95FF 19FE"            /* ֹ‏,1Lbp)<ÿ‏‏•ÿ.‏ */
+	$"FBFB FFFF 6B25 625D 216C F7F9 FEF7 B619"            /* ûûÿÿk%b]!lקש‏ק¶. */
+	$"5544 2242 FFFE FEFB FE91 FF19 FEFB FBFC"            /* UD"Bÿ‏‏û‏‘ÿ.‏ûûü */
+	$"FFF2 C763 3155 5544 89FE FCFB FEBE 1C2B"            /* ÿעַc1UUD‰‏üû‏¾.+ */
+	$"472A 3CFF F7FA 93FF 1AFC F6FB F9FF CA0F"            /* G*<ÿקת“ÿ.üצûשÿÊ. */
+	$"5D8F 2A33 FFFF FBF5 FCFC BA13 417A 2437"            /* ]*3ÿÿûץüü÷.Az$7 */
+	$"FFFC FCFE 91FF 1BFE F7FB FBFC A58E 4759"            /* ÿüü‏‘ÿ.‏קûûü¥GY */
+	$"5A6C 83FC FEFC FBF7 FCD4 606F 3661 81FE"            /* Zlƒü‏üûקüװ`o6a‏ */
+	$"F5FE FE91 FF0B FEFB FAFF FF21 3AB2 4715"            /* ץ‏‏‘ÿ.‏ûתÿÿ!:²G. */
+	$"E7FF 80FC 0CF9 FAFA FFFF 5C11 ECFF FAFE"            /* חÿ€ü.שתתÿÿ\.לÿת‏ */
+	$"F6FB 92FF 1AFE FC78 4A5C 583A 93C6 F7FF"            /* צû’ÿ.‏üxJ\X:“ֶקÿ */
+	$"FCFB FBFA FEFE FBFE D7C3 F9FB FCFC FAFC"            /* üûûת‏‏û‏׳ֳשûüüתü */
+	$"8BFF 14FB FFFF FEFF FFFE FBFA 5626 6857"            /* ‹ÿ.ûÿÿ‏ÿÿ‏ûתV&hW */
+	$"1FAD FFFF FBFF FFFE 98FF 0FFC FBFF FFFA"            /* .­ÿÿûÿÿ‏˜ÿ.üûÿÿת */
+	$"FFFF B522 5C63 294F F4F9 F980 FE01 FAFE"            /* ÿÿµ"\c)Oפשש€‏.ת‏ */
+	$"97FF 14FE F7FE FCFC FEF4 CD99 274D 6248"            /* —ÿ.‏ק‏üü‏פֽ™'MbH */
+	$"6FFF FAFB FAFB FEFB 99FF 00FC 80FE 0FFF"            /* oÿתûתû‏û™ÿ.ü€‏.ÿ */
+	$"EF17 2F57 2B22 FFFF FCFC FBFB FFFB FB98"            /* ן./W+"ÿÿüüûûÿûû˜ */
+	$"FF15 FEF9 FCFE FEB3 9730 393D 606E F5FF"            /* ÿ.‏שü‏‏³—09=`nץÿ */
+	$"FEFF F6FC FBFE FBFC 99FF 13FC FFFF 3C1D"            /* ‏ÿצüû‏ûü™ÿ.üÿÿ<. */
+	$"553C 0FC3 FFFA FFFF FAF9 FAFB FBF5 FE98"            /* U<.ֳÿתÿÿתשתûûץ‏˜ */
+	$"FF0A FEFF 9049 4244 2B5A BFED FC80 FE80"            /* ÿֲ‏ÿIBD+Z¿םü€‏€ */
+	$"FC03 FFFE FAFE 97FF 0BFE FAFF 671A 434D"            /* ü.ÿ‏ת‏—ÿ.‏תÿg.CM */
+	$"2166 FFFF FCA2 FF0D FBFF 6A1C 2539 F1F1"            /* !fÿÿü¢ÿ.ûÿj.%9סס */
+	$"F6FB FEFF FBFC 9FFF 0DFB FF81 3F48 55FF"            /* צû‏ÿûüÿ.ûÿ?HUÿ */
+	$"FBF9 F9FA FEFC FE9E FF02 FEFA FE81 FF06"            /* ûששת‏ü‏ÿ.‏ת‏ÿ. */
+	$"FBF9 FBFA FEFB FBA1 FF0E FCFE FEFF F9FA"            /* ûשûת‏ûû¡ÿ.ü‏‏ÿשת */
+	$"FCF7 FAFA FCFC FBFE FE9E FF0B FEFE FCFB"            /* üקתתüüû‏‏ÿ.‏‏üû */
+	$"F9FB FCF9 FAFA FCF4 81FE 9CFF 0CFC FFFC"            /* שûüשתתüפ‏ÿ.üÿü */
+	$"FEFE FCFC FBFC FCFF FEFA 81FE A2FF 00FE"            /* ‏‏üüûüüÿ‏ת‏¢ÿ.‏ */
+	$"CFFF DD00 DD00 FFFF FFFF D8FF 19FB FCFE"            /* ֿÿÝ.Ý.ÿÿÿÿ״ÿ.ûü‏ */
+	$"FBFF FCFC FBFB FEFA FFFC FDFB FEFE FBFE"            /* ûÿüüûû‏תÿü‎û‏‏û‏ */
+	$"FBFE FEFD FFFE FB92 FF06 FBFC FFFE FBFB"            /* û‏‏‎ÿ‏û’ÿ.ûüÿ‏ûû */
+	$"FE80 FF10 FCFF FFFE FAFD FDFA FBFE FEF6"            /* ‏€ÿ.üÿÿ‏ת‎‎תû‏‏צ */
+	$"F8F8 FEF5 FA91 FF1C FEFC FBFE FAFA FCFE"            /* רר‏ץת‘ÿ.‏üû‏תתü‏ */
+	$"D4BE C2BE BFD4 FAFB F8FA FEFB FBFF FEFB"            /* װ¾ֲ¾¿װתûרת‏ûûÿ‏û */
+	$"FBF9 FDF8 FE91 FF0C FEF5 FAFF FBFE FF60"            /* ûש‎ר‏‘ÿ.‏ץתÿû‏ÿ` */
+	$"1318 1C13 5F83 FF07 FEF8 FBF5 FBFE FDFE"            /* ...._ƒÿ.‏רûץû‏‎‏ */
+	$"92FF 1AFB FCFF FFFC D15F 6D3F 4A2F 3659"            /* ’ÿ.ûüÿÿüׁ_m?J/6Y */
+	$"6168 6DFF D359 C7FA F8FB F6FB FBFE 91FF"            /* ahmÿ׃Yַתרûצûû‏‘ÿ */
+	$"17FE FEFC FFFA FFBB 0A3F 406A 5C47 5419"            /* .‏‏üÿתÿ»ֲ?@j\GT. */
+	$"1A21 FFC2 04AF FFFB F480 FD00 FB93 FF19"            /* .!ÿֲ.¯ÿûפ€‎.û“ÿ. */
+	$"FBFC FEFE F1CB 5922 3036 484B 613C 7148"            /* ûü‏‏סֻY"06HKa<qH */
+	$"4858 4B43 E6FC FEFB FFFE 99FF 126E 262C"            /* HXKCזü‏ûÿ‏™ÿ.n&, */
+	$"334C 5850 3785 2832 6638 23E1 FFFE FBFB"            /* 3LXP7…(2f8#בÿ‏ûû */
+	$"9AFF 13F0 F5F8 CF1F 2B46 656A 806D 16AD"            /* ÿ.נץרֿ.+Fej€m.­ */
+	$"FFFE FBF6 FCF5 F997 FF00 FE80 FC11 FFE5"            /* ÿ‏ûצüץש—ÿ.‏€ü.ÿו */
+	$"454A 4263 3F3D 3635 90C3 F6F7 FCFF FFFE"            /* EJBc?=65ֳצקüÿÿ‏ */
+	$"97FF 16FE FFFE FCFD FFFF B715 4154 564E"            /* —ÿ.‏ÿ‏ü‎ÿÿ·.ATVN */
+	$"9045 15DF FFF9 FEFE FBFE 98FF 0EFE FBFA"            /* E.ßÿש‏‏û‏˜ÿ.‏ûת */
+	$"E766 5635 3332 435C 5733 21E0 80FF 02FE"            /* חfV532C\W3!א€ÿ.‏ */
+	$"FAFE 97FF 14FE FEF9 FFE2 1227 4F26 1A4D"            /* ת‏—ÿ.‏‏שÿג.'O&.M */
+	$"3D52 331B EFFF F7F7 FEFC 99FF 12FE FE5B"            /* =R3.ןÿקק‏ü™ÿ.‏‏[ */
+	$"4863 4B22 9FC7 2E2E 505C 5A4C 64FC FBFB"            /* HcK"ַ..P\ZLdüûû */
+	$"93FF 02FE FCFB 80FE 13FB FAF6 362A 7955"            /* “ÿ.‏üû€‏.ûתצ6*yU */
+	$"1ACA FE2C 314C 6270 293C FFFE FE95 FF19"            /* .Ê‏,1Lbp)<ÿ‏‏•ÿ. */
+	$"FEFA FAFE FF68 215A 551A 64F6 F9FE F7B6"            /* ‏תת‏ÿh!ZU.dצש‏ק¶ */
+	$"1955 4422 42FF FEFE FBFE 91FF 19FE FBFB"            /* .UD"Bÿ‏‏û‏‘ÿ.‏ûû */
+	$"FAFE EFC5 5D2B 4E4D 3E7D FEFC FBFE BE1C"            /* ת‏ןֵ]+NM>}‏üû‏¾. */
+	$"2B47 2A3C FFF7 FA93 FF1A FCF5 FAF5 FFC7"            /* +G*<ÿקת“ÿ.üץתץÿַ */
+	$"0A55 8724 2EFF FFFB F5FC FCBA 1341 7A24"            /* ֲU‡$.ÿÿûץüü÷.Az$ */
+	$"37FF FCFC FE91 FF1B FEF9 FAF7 F9A1 883D"            /* 7ÿüü‏‘ÿ.‏שתקש¡ˆ= */
+	$"4E51 667D FBFB FCFA F7FC D460 6E36 6181"            /* NQf}ûûüתקüװ`n6a */
+	$"FEF5 FEFE 91FF 1BFE FBF9 FFFF 1A30 A43B"            /* ‏ץ‏‏‘ÿ.‏ûשÿÿ.0₪; */
+	$"0EE0 FFFB FCFC FAFB FBFF FF5E 11EC FFFA"            /* .אÿûüüתûûÿÿ^.לÿת */
+	$"FEF6 FB92 FF0A FEFC 7546 524B 2E88 C3F2"            /* ‏צû’ÿֲ‏üuFRK.ˆֳע */
+	$"FB80 FE0C FBFF FFFE FFDA C3F9 FBFC FCFA"            /* û€‏.ûÿÿ‏ÿÚֳשûüüת */
+	$"FD8A FF13 FEFA FCFE FEFF FFFB F3FA 4E1F"            /* ‎ÿ.‏תü‏‏ÿÿûףתN. */
+	$"6151 1BA8 FFFF FAFE 9AFF 14FB F8FE FEFA"            /* aQ.¨ÿÿת‏ÿ.ûר‏‏ת */
+	$"FFFF AF1B 525B 264C F4F6 F5FD FBFC FAFE"            /* ÿÿ¯.R[&Lפצץ‎ûüת‏ */
+	$"97FF 01FE F680 FB0F FCF4 CD8F 2047 5B43"            /* —ÿ.‏צ€û.üפֽ G[C */
+	$"6AFF F5FA F9F9 FCFC 99FF 13FC FEFB FCFF"            /* jÿץתששüü™ÿ.ü‏ûüÿ */
+	$"EE15 294F 261F FBFF FAFA FBFA FEFA FB98"            /* מ.)O&.ûÿתתûת‏תû˜ */
+	$"FF15 FEF9 FEFE FBAF 952C 3337 5B6A F3FB"            /* ÿ.‏ש‏‏û¯•,37[jףû */
+	$"FAFE F6FA F9FE FBFC 99FF 13FB FFFF 3A19"            /* ת‏צתש‏ûü™ÿ.ûÿÿ:. */
+	$"4E38 0CC1 FFF9 FCFF FAF7 F7FA FBF5 FE98"            /* N8.ֱÿשüÿתקקתûץ‏˜ */
+	$"FF0D FEFF 8D46 3F3D 2556 BEE7 FBFF FEFC"            /* ÿ.‏ÿF?=%V¾חûÿ‏ü */
+	$"80FB 03FE FEFA FE98 FF0D FBFF 6417 3F46"            /* €û.‏‏ת‏˜ÿ.ûÿd.?F */
+	$"1C66 FFFF FBFF FFFE 9FFF 0DFB FF68 1A22"            /* .fÿÿûÿÿ‏ÿ.ûÿh." */
+	$"34EB F0F6 FBFE FFFB FC9F FF0D FBFF 813C"            /* 4כנצû‏ÿûüÿ.ûÿ< */
+	$"4450 FEFA F9F9 FAFE FCFE 9EFF 02FE FAFE"            /* DP‏תששת‏ü‏ÿ.‏ת‏ */
+	$"81FF 06F9 F7FB FAFE FBFB A0FF 0DFE FAFC"            /* ÿ.שקûת‏ûû ÿ.‏תü */
+	$"FBFC F7FA FCF7 FAFA FCFC FD9F FF07 FEFB"            /* ûüקתüקתתüü‎ÿ.‏û */
+	$"FCFB FBF9 FBFC 80F9 02FC F4FE 9FFF 0DFB"            /* üûûשûü€ש.üפ‏ÿ.û */
+	$"FEFC FEFE FCFC FBFC FDFE FEF9 FD9F FF00"            /* ‏ü‏‏üüûü‎‏‏ש‎ÿ. */
+	$"FE82 FF00 FE83 FF00 FEC8 FFDD 00DD 00FF"            /* ‏‚ÿ.‏ƒÿ.‏ָÿÝ.Ý.ÿ */
+	$"FFFF FFD8 FF19 FBFC FEFB FFFC FCFB FBFE"            /* ÿÿÿ״ÿ.ûü‏ûÿüüûû‏ */
+	$"FAFF FBFA FAFB FBF9 FBFA FCFC FAFC FBF9"            /* תÿûתתûûשûתüüתüûש */
+	$"92FF 06FB FCFF FEFB FBFE 80FF 10FC FFFF"            /* ’ÿ.ûüÿ‏ûû‏€ÿ.üÿÿ */
+	$"FCF7 FAFA F7F9 FBFB F4F5 F5FB F2F7 91FF"            /* üקתתקשûûפץץûעק‘ÿ */
+	$"1CFE FCFB FEFA FAFC FED4 BEC2 BEBF D5F9"            /* .‏üû‏תתü‏װ¾ֲ¾¿ױש */
+	$"F9F5 F7FB F9F9 FCFB F9F9 F6FA F5FE 91FF"            /* שץקûששüûששצתץ‏‘ÿ */
+	$"0CFE F5FA FFFB FEFF 6013 181C 135F 80FF"            /* .‏ץתÿû‏ÿ`...._€ÿ */
+	$"0AFC FEFF FBF5 F9F2 F9FB FAFB 92FF 1AFB"            /* ֲü‏ÿûץשעשûתû’ÿ.û */
+	$"FCFF FFFC D15F 6D3F 4A2F 3659 6166 6BFE"            /* üÿÿüׁ_m?J/6Yafk‏ */
+	$"D057 C4FA F5F9 F4F9 F9FB 91FF 17FE FEFC"            /* ׀Wִתץשפששû‘ÿ.‏‏ü */
+	$"FFFA FFBB 0A3F 406A 5C47 5417 181F FFBF"            /* ÿתÿ»ֲ?@j\GT...ÿ¿ */
+	$"02AD FFF9 F180 FA00 F993 FF19 FBFC FEFE"            /* .­ÿשס€ת.ש“ÿ.ûü‏‏ */
+	$"F1CB 5922 3036 484B 6039 6F46 4656 4941"            /* סֻY"06HK`9oFFVIA */
+	$"E4FC FBF9 FCFB 95FF 16FC FCFE FF6E 262C"            /* הüûשüû•ÿ.üü‏ÿn&, */
+	$"334C 584C 3281 262F 6437 22DF FCFE FBFC"            /* 3LXL2&/d7"ßü‏ûü */
+	$"96FF 80FC 14FF F0F5 F6CE 1E2A 4260 657C"            /* –ÿ€ü.ÿנץצ־.*B`e| */
+	$"6A15 ADFF FBF9 F6FC F6FB 98FF 14FB FCFE"            /* j.­ÿûשצüצû˜ÿ.ûü‏ */
+	$"FEE2 4549 3F5D 3C3A 3334 8FC2 F4F7 FCFF"            /* ‏גEI?]<:34ֲפקüÿ */
+	$"FFFE 97FF 15FE FEFC FBFA FCFF B213 3D51"            /* ÿ‏—ÿ.‏‏üûתüÿ².=Q */
+	$"534D 8F44 14DF FFF9 FEFF FC99 FF0E FBF9"            /* SMD.ßÿש‏ÿü™ÿ.ûש */
+	$"F6E1 614F 3131 2E41 5B56 321F E080 FF02"            /* צבaO11.A[V2.א€ÿ. */
+	$"FEFA FE97 FF14 FEFA F5FF DC0E 224B 2617"            /* ‏ת‏—ÿ.‏תץÿÜ."K&. */
+	$"4B3B 5032 1BEF FFF7 F7FE FC98 FF13 FEF9"            /* K;P2.ןÿקק‏ü˜ÿ.‏ש */
+	$"FE58 415B 441F 9DC4 2D2D 4E5A 5A4C 64FC"            /* ‏XA[D.ִ--NZZLdü */
+	$"FBFB 93FF 19FE FCFB FCFB FBFA F5F2 3124"            /* ûû“ÿ.‏üûüûûתץע1$ */
+	$"704D 18CA FE2B 304B 606F 293C FFFE FE95"            /* pM.Ê‏+0K`o)<ÿ‏‏• */
+	$"FF19 FCF7 F6F9 FF63 1E54 4E15 5BF6 FAFE"            /* ÿ.üקצשÿc.TN.[צת‏ */
+	$"F7B6 1753 4322 42FF FEFE FAFE 91FF 1AFE"            /* ק¶.SC"Bÿ‏‏ת‏‘ÿ.‏ */
+	$"FBFA F6F9 E9C3 5726 4949 3A7A FEFE FBFE"            /* ûתצשיֳW&II:z‏‏û‏ */
+	$"BE1C 2A48 2B3C FFF7 FAFC 92FF 1AFC F5F7"            /* ¾.*H+<ÿקתü’ÿ.üץק */
+	$"F1FF C001 4E81 1F2A FFFC FAF7 FEFC BA13"            /* סÿְ.N.*ÿüתק‏ü÷. */
+	$"417B 2537 FFFC FBFB 91FF 1BFE FAF9 F4F4"            /* A{%7ÿüûû‘ÿ.‏תשפפ */
+	$"9A80 3749 4B60 7AFA F7FC FBFB FED4 606F"            /* €7IK`zתקüûû‏װ`o */
+	$"3763 81FE F5FC FB91 FF0E FEFC F7FE FF15"            /* 7c‏ץüû‘ÿ.‏üק‏ÿ. */
+	$"2999 340A DAFF FAFE FE80 FC09 FFFF 5D12"            /* )™4ֲÚÿת‏‏€üֶÿÿ]. */
+	$"EDFF FBFC F4F9 93FF 09FC 7241 4943 2581"            /* םÿûüפש“ÿֶürAIC% */
+	$"BFEF FA80 FF0C FEFF FFFC FFD9 C4F9 FEFE"            /* ¿ןת€ÿ.‏ÿÿüÿÙִש‏‏ */
+	$"FCF7 FA8B FF00 FE82 FF0C FAE9 F648 1C5A"            /* üקת‹ÿ.‏‚ÿ.תיצH.Z */
+	$"4C17 A3FF FCF7 FE9A FF14 FEFE FFFF FCFF"            /* L.£ÿüק‏ÿ.‏‏ÿÿüÿ */
+	$"FFA4 154B 5521 48F4 F1F1 FAFB FEFB FE97"            /* ÿ₪.KU!Hפססתû‏û‏— */
+	$"FF14 FEF9 FCFC FBFE F1CB 851B 4155 4066"            /* ÿ.‏שüüû‏סֻ….AU@f */
+	$"FEF1 F5F4 FAFE FE99 FF13 FCFE FBFB FFEB"            /* ‏סץפת‏‏™ÿ.ü‏ûûÿכ */
+	$"1322 4A22 1BF6 FCF5 F6F7 F7FF FBFC 98FF"            /* ."J".צüץצקקÿûü˜ÿ */
+	$"15FE F7FB FBFA AD92 2A2E 3357 67EF F9F9"            /* .‏קûûת­’*.3Wgןשש */
+	$"FBF4 FAFA FFFE FE98 FF14 FAF6 FFFF 3617"            /* ûפתתÿ‏‏˜ÿ.תצÿÿ6. */
+	$"4B34 0ABC FFF6 FAFC FAF7 F9FB FCF7 FE98"            /* K4ֲ¼ÿצתüתקשûüק‏˜ */
+	$"FF0D F9FE 8943 3A3A 2253 BDE4 FAFC FBFB"            /* ÿ.ש‏‰C::"S½התüûû */
+	$"80FC 03FF FEFB FE97 FF0E FEF5 FF61 133B"            /* €ü.ÿ‏û‏—ÿ.‏ץÿa.; */
+	$"431A 64FF FCF9 FFFE FE9F FF0D F6FE 6517"            /* C.dÿüשÿ‏‏ÿ.צ‏e. */
+	$"1F31 E7ED F5F9 FCFE FBFC 9EFF 07FE F9FF"            /* .1חםץשü‏ûüÿ.‏שÿ */
+	$"7E39 414D FE80 F903 FAFE FCFE 9EFF 03FE"            /* ~9AM‏€ש.ת‏ü‏ÿ.‏ */
+	$"F9FE FE80 FF07 F5F7 FBFA FEFB FBFF 83FE"            /* ש‏‏€ÿ.ץקûת‏ûûÿƒ‏ */
+	$"9AFF 80FC 09FF F6F9 FCF7 FAFA FCFC FB83"            /* ÿ€üֶÿצשüקתתüüûƒ */
+	$"FC00 FE9A FF0A FEFE FCF7 FAFC F9F7 F7FB"            /* ü.‏ÿֲ‏‏üקתüשקקû */
+	$"F184 FC00 FE9A FF0B FEFF FFFC FCFB FCFA"            /* ס„ü.‏ÿ.‏ÿÿüüûüת */
+	$"FBFB F6FA 83FC 00FE 9EFF 00FE 82FF 01FE"            /* ûûצתƒü.‏ÿ.‏‚ÿ.‏ */
+	$"FEC8 FFDD 0068 386D 6B00 0009 0800 0000"            /* ‏ָÿÝ.h8mk..ֶ.... */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 00FF FFFF"            /* .............ÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ */
+	$"FFFF FFFF FFFF FFFF FFFF FFFF FF00 0000"            /* ÿÿÿÿÿÿÿÿÿÿÿÿÿ... */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 0000 0000"            /* ................ */
+	$"0000 0000 0000 0000 0000 0000 00"                   /* ............. */
+};
+
